@@ -19,7 +19,7 @@ python3 main.py
 # wrote /output/entry.png (768641 bytes, 1024x1024)
 ```
 
-`main.py` (Python 3.13, stdlib only, no network) copies `entry.png` from the repo root to `/output/entry.png`, byte-for-byte, and validates that the output is a 1024x1024 PNG of at most 1 MiB. Two runs produce identical bytes (sha256 `8e467fc2d0e7d5cf829996da8a8f4b64f9d6c807200a330a7e17258e21bc06e8`).
+`main.py` (Python 3.13, stdlib only, no network) copies `entry.png` from the repo root to `/output/entry.png`, byte-for-byte, and validates that the output is a 1024x1024 PNG of at most 1 MiB. Two runs produce identical bytes (sha256 `31830c684da15fad55c86a6d2297b72915f2fd1a1dffdea40ae6fa87dc9cc060`).
 
 ---
 
